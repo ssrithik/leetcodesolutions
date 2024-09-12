@@ -10,6 +10,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ssrithik/leetcodesolutions/tree/master/0069-sqrtx) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ssrithik/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ssrithik/leetcodesolutions/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
 ## Dynamic Programming
 |  |
