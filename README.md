@@ -29,6 +29,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/ssrithik/leetcodesolutions/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
+| [2752-sum-multiples](https://github.com/ssrithik/leetcodesolutions/tree/master/2752-sum-multiples) |
 ## Dynamic Programming
 |  |
 | ------- |
