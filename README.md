@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssrithik/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/ssrithik/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ssrithik/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Binary Search
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0011-container-with-most-water) |
+| [0283-move-zeroes](https://github.com/ssrithik/leetcodesolutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
