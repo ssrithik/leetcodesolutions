@@ -92,5 +92,10 @@
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/ssrithik/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
 | [1205-defanging-an-ip-address](https://github.com/ssrithik/leetcodesolutions/tree/master/1205-defanging-an-ip-address) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/ssrithik/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
