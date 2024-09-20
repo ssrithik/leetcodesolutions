@@ -89,4 +89,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [1205-defanging-an-ip-address](https://github.com/ssrithik/leetcodesolutions/tree/master/1205-defanging-an-ip-address) |
 <!---LeetCode Topics End-->
