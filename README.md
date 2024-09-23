@@ -45,6 +45,7 @@
 | [0069-sqrtx](https://github.com/ssrithik/leetcodesolutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/ssrithik/leetcodesolutions/tree/master/0258-add-digits) |
 | [0398-random-pick-index](https://github.com/ssrithik/leetcodesolutions/tree/master/0398-random-pick-index) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ssrithik/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
 | [2752-sum-multiples](https://github.com/ssrithik/leetcodesolutions/tree/master/2752-sum-multiples) |
 ## Dynamic Programming
@@ -121,4 +122,8 @@
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/ssrithik/leetcodesolutions/tree/master/0398-random-pick-index) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/ssrithik/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 <!---LeetCode Topics End-->
