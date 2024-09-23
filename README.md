@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ssrithik/leetcodesolutions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/ssrithik/leetcodesolutions/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
 | [2752-sum-multiples](https://github.com/ssrithik/leetcodesolutions/tree/master/2752-sum-multiples) |
 ## Dynamic Programming
@@ -98,4 +99,12 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/ssrithik/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ssrithik/leetcodesolutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ssrithik/leetcodesolutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
