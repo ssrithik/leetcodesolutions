@@ -83,11 +83,13 @@
 | [0219-contains-duplicate-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [0398-random-pick-index](https://github.com/ssrithik/leetcodesolutions/tree/master/0398-random-pick-index) |
+| [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | [0273-integer-to-english-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0273-integer-to-english-words) |
 | [0459-repeated-substring-pattern](https://github.com/ssrithik/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
 | [1205-defanging-an-ip-address](https://github.com/ssrithik/leetcodesolutions/tree/master/1205-defanging-an-ip-address) |
+| [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String Matching
 |  |
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ssrithik/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -154,6 +158,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
+| [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
 |  |
