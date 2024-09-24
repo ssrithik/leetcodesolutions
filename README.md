@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ssrithik/leetcodesolutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ssrithik/leetcodesolutions/tree/master/0055-jump-game) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ssrithik/leetcodesolutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ssrithik/leetcodesolutions/tree/master/0283-move-zeroes) |
