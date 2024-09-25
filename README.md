@@ -65,6 +65,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ssrithik/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
 | [2752-sum-multiples](https://github.com/ssrithik/leetcodesolutions/tree/master/2752-sum-multiples) |
+| [2812-find-the-maximum-achievable-number](https://github.com/ssrithik/leetcodesolutions/tree/master/2812-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
 | ------- |
