@@ -90,6 +90,7 @@
 | [0205-isomorphic-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0264-ugly-number-ii) |
+| [0290-word-pattern](https://github.com/ssrithik/leetcodesolutions/tree/master/0290-word-pattern) |
 | [0398-random-pick-index](https://github.com/ssrithik/leetcodesolutions/tree/master/0398-random-pick-index) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -134,6 +135,7 @@
 | [0179-largest-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0273-integer-to-english-words) |
+| [0290-word-pattern](https://github.com/ssrithik/leetcodesolutions/tree/master/0290-word-pattern) |
 | [0459-repeated-substring-pattern](https://github.com/ssrithik/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
 | [1205-defanging-an-ip-address](https://github.com/ssrithik/leetcodesolutions/tree/master/1205-defanging-an-ip-address) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
