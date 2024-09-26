@@ -25,6 +25,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ssrithik/leetcodesolutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
 | [0729-my-calendar-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ssrithik/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -104,6 +105,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ssrithik/leetcodesolutions/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/ssrithik/leetcodesolutions/tree/master/0398-random-pick-index) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ssrithik/leetcodesolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
