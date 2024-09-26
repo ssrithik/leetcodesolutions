@@ -1,11 +1,12 @@
 class Solution {
     public boolean isThree(int n) {
-        int i;
+        int i=1;
         int count=0;
-        for(i=1;i<=n;i++)
+        while(i <= n)
         {
-           if(n%i==0)
-           count++;
+            if(n%i==0)
+            count++;
+            i++;
         }
         return count==3;
         
