@@ -58,6 +58,7 @@
 | [0075-sort-colors](https://github.com/ssrithik/leetcodesolutions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ssrithik/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ssrithik/leetcodesolutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssrithik/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/ssrithik/leetcodesolutions/tree/master/0279-perfect-squares) |
+| [0392-is-subsequence](https://github.com/ssrithik/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
 ## Recursion
 |  |
@@ -165,6 +167,7 @@
 | [0273-integer-to-english-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0273-integer-to-english-words) |
 | [0290-word-pattern](https://github.com/ssrithik/leetcodesolutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ssrithik/leetcodesolutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/ssrithik/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/ssrithik/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
 | [0782-jewels-and-stones](https://github.com/ssrithik/leetcodesolutions/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/ssrithik/leetcodesolutions/tree/master/1205-defanging-an-ip-address) |
