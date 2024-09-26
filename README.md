@@ -77,6 +77,7 @@
 | [0398-random-pick-index](https://github.com/ssrithik/leetcodesolutions/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ssrithik/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
+| [1610-xor-operation-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
 | [2752-sum-multiples](https://github.com/ssrithik/leetcodesolutions/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ssrithik/leetcodesolutions/tree/master/2812-find-the-maximum-achievable-number) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/ssrithik/leetcodesolutions/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ssrithik/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1610-xor-operation-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1610-xor-operation-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 ## Breadth-First Search
 |  |
