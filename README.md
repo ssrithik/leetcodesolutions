@@ -34,6 +34,7 @@
 | [1677-matrix-diagonal-sum](https://github.com/ssrithik/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ssrithik/leetcodesolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ssrithik/leetcodesolutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ssrithik/leetcodesolutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Binary Search
 |  |
