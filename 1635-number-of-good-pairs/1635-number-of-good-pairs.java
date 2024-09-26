@@ -6,7 +6,7 @@ class Solution {
         {
             for(j=i+1;j<nums.length;j++)
             {
-                if(nums[i] == nums[j] && i<j)
+                if(nums[i] == nums[j])
                 {
                      count++;
                 }
