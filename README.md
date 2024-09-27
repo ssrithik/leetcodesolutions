@@ -36,6 +36,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ssrithik/leetcodesolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ssrithik/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/ssrithik/leetcodesolutions/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/ssrithik/leetcodesolutions/tree/master/3226-minimum-number-game) |
@@ -76,6 +77,7 @@
 | [0055-jump-game](https://github.com/ssrithik/leetcodesolutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/ssrithik/leetcodesolutions/tree/master/0409-longest-palindrome) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Math
 |  |
 | ------- |
