@@ -30,6 +30,7 @@
 | [0729-my-calendar-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ssrithik/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0859-design-circular-deque](https://github.com/ssrithik/leetcodesolutions/tree/master/0859-design-circular-deque) |
 | [0941-sort-array-by-parity](https://github.com/ssrithik/leetcodesolutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1044-find-common-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1044-find-common-characters) |
@@ -290,6 +291,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ssrithik/leetcodesolutions/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/ssrithik/leetcodesolutions/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ssrithik/leetcodesolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0859-design-circular-deque](https://github.com/ssrithik/leetcodesolutions/tree/master/0859-design-circular-deque) |
 ## Enumeration
 |  |
 | ------- |
@@ -314,4 +317,8 @@
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ssrithik/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/ssrithik/leetcodesolutions/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
