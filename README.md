@@ -147,6 +147,7 @@
 | [0383-ransom-note](https://github.com/ssrithik/leetcodesolutions/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/ssrithik/leetcodesolutions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/ssrithik/leetcodesolutions/tree/master/0409-longest-palindrome) |
+| [0432-all-oone-data-structure](https://github.com/ssrithik/leetcodesolutions/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/ssrithik/leetcodesolutions/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1044-find-common-characters) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ssrithik/leetcodesolutions/tree/master/0303-range-sum-query-immutable) |
+| [0432-all-oone-data-structure](https://github.com/ssrithik/leetcodesolutions/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/ssrithik/leetcodesolutions/tree/master/0859-design-circular-deque) |
@@ -306,6 +308,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ssrithik/leetcodesolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0432-all-oone-data-structure](https://github.com/ssrithik/leetcodesolutions/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/ssrithik/leetcodesolutions/tree/master/0859-design-circular-deque) |
 ## Enumeration
 |  |
@@ -321,4 +324,8 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/ssrithik/leetcodesolutions/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/ssrithik/leetcodesolutions/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
