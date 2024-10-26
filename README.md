@@ -220,6 +220,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ssrithik/leetcodesolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
@@ -352,4 +353,16 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/ssrithik/leetcodesolutions/tree/master/0432-all-oone-data-structure) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
