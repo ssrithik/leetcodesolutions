@@ -67,6 +67,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/ssrithik/leetcodesolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0729-my-calendar-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0729-my-calendar-i) |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ssrithik/leetcodesolutions/tree/master/0067-add-binary) |
+| [0222-count-complete-tree-nodes](https://github.com/ssrithik/leetcodesolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ssrithik/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1610-xor-operation-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1610-xor-operation-in-an-array) |
@@ -366,6 +368,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ssrithik/leetcodesolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
@@ -384,5 +387,6 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ssrithik/leetcodesolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
