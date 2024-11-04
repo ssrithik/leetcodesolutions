@@ -34,6 +34,7 @@
 | [0859-design-circular-deque](https://github.com/ssrithik/leetcodesolutions/tree/master/0859-design-circular-deque) |
 | [0941-sort-array-by-parity](https://github.com/ssrithik/leetcodesolutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1036-rotting-oranges](https://github.com/ssrithik/leetcodesolutions/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1044-find-common-characters) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ssrithik/leetcodesolutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1256-rank-transform-of-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1256-rank-transform-of-an-array) |
@@ -186,6 +187,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/ssrithik/leetcodesolutions/tree/master/1036-rotting-oranges) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ssrithik/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
 ## Sorting
@@ -294,6 +296,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/ssrithik/leetcodesolutions/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
+| [1036-rotting-oranges](https://github.com/ssrithik/leetcodesolutions/tree/master/1036-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
