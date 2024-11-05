@@ -35,6 +35,7 @@
 | [0941-sort-array-by-parity](https://github.com/ssrithik/leetcodesolutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1036-rotting-oranges](https://github.com/ssrithik/leetcodesolutions/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/ssrithik/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1044-find-common-characters) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ssrithik/leetcodesolutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1256-rank-transform-of-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1256-rank-transform-of-an-array) |
@@ -165,6 +166,7 @@
 | [0432-all-oone-data-structure](https://github.com/ssrithik/leetcodesolutions/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/ssrithik/leetcodesolutions/tree/master/0782-jewels-and-stones) |
+| [1039-find-the-town-judge](https://github.com/ssrithik/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -399,4 +401,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0098-validate-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/ssrithik/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
