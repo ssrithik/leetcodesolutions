@@ -299,6 +299,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/ssrithik/leetcodesolutions/tree/master/0279-perfect-squares) |
+| [0547-number-of-provinces](https://github.com/ssrithik/leetcodesolutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 | [1036-rotting-oranges](https://github.com/ssrithik/leetcodesolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
@@ -388,6 +389,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0547-number-of-provinces](https://github.com/ssrithik/leetcodesolutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 | [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
@@ -408,9 +410,11 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ssrithik/leetcodesolutions/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/ssrithik/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ssrithik/leetcodesolutions/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
