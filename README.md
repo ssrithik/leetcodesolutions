@@ -37,6 +37,7 @@
 | [1036-rotting-oranges](https://github.com/ssrithik/leetcodesolutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/ssrithik/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1044-find-common-characters) |
+| [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ssrithik/leetcodesolutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1256-rank-transform-of-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -190,6 +191,7 @@
 | [0054-spiral-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/ssrithik/leetcodesolutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/ssrithik/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
 ## Sorting
@@ -299,6 +301,7 @@
 | [0279-perfect-squares](https://github.com/ssrithik/leetcodesolutions/tree/master/0279-perfect-squares) |
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 | [1036-rotting-oranges](https://github.com/ssrithik/leetcodesolutions/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
@@ -386,6 +389,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
+| [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -405,4 +409,8 @@
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/ssrithik/leetcodesolutions/tree/master/1039-find-the-town-judge) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
