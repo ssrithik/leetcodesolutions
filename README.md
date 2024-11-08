@@ -141,6 +141,7 @@
 | [0392-is-subsequence](https://github.com/ssrithik/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ssrithik/leetcodesolutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ssrithik/leetcodesolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Recursion
 |  |
 | ------- |
@@ -421,6 +422,7 @@
 | [0744-network-delay-time](https://github.com/ssrithik/leetcodesolutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ssrithik/leetcodesolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1039-find-the-town-judge](https://github.com/ssrithik/leetcodesolutions/tree/master/1039-find-the-town-judge) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ssrithik/leetcodesolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Union Find
 |  |
 | ------- |
@@ -431,4 +433,5 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/ssrithik/leetcodesolutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ssrithik/leetcodesolutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ssrithik/leetcodesolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
