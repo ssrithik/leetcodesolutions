@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/ssrithik/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ssrithik/leetcodesolutions/tree/master/0055-jump-game) |
@@ -161,6 +162,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/ssrithik/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0205-isomorphic-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0264-ugly-number-ii) |
@@ -193,6 +195,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ssrithik/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/ssrithik/leetcodesolutions/tree/master/1036-rotting-oranges) |
@@ -440,4 +443,8 @@
 | [0744-network-delay-time](https://github.com/ssrithik/leetcodesolutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ssrithik/leetcodesolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ssrithik/leetcodesolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ssrithik/leetcodesolutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
