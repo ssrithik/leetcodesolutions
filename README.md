@@ -133,6 +133,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ssrithik/leetcodesolutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ssrithik/leetcodesolutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssrithik/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -145,6 +146,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ssrithik/leetcodesolutions/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/ssrithik/leetcodesolutions/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
@@ -243,6 +245,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/ssrithik/leetcodesolutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ssrithik/leetcodesolutions/tree/master/0067-add-binary) |
 | [0179-largest-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0179-largest-number) |
