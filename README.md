@@ -138,6 +138,7 @@
 | [0010-regular-expression-matching](https://github.com/ssrithik/leetcodesolutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ssrithik/leetcodesolutions/tree/master/0055-jump-game) |
+| [0087-scramble-string](https://github.com/ssrithik/leetcodesolutions/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssrithik/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/ssrithik/leetcodesolutions/tree/master/0279-perfect-squares) |
@@ -255,6 +256,7 @@
 | [0013-roman-to-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0067-add-binary](https://github.com/ssrithik/leetcodesolutions/tree/master/0067-add-binary) |
+| [0087-scramble-string](https://github.com/ssrithik/leetcodesolutions/tree/master/0087-scramble-string) |
 | [0179-largest-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/0205-isomorphic-strings) |
 | [0273-integer-to-english-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0273-integer-to-english-words) |
