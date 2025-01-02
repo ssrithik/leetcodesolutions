@@ -46,6 +46,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/ssrithik/leetcodesolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/ssrithik/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
