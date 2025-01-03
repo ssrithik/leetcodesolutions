@@ -48,6 +48,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/ssrithik/leetcodesolutions/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/ssrithik/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
 | [1944-truncate-sentence](https://github.com/ssrithik/leetcodesolutions/tree/master/1944-truncate-sentence) |
@@ -272,6 +273,7 @@
 | [0782-jewels-and-stones](https://github.com/ssrithik/leetcodesolutions/tree/master/0782-jewels-and-stones) |
 | [1044-find-common-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1044-find-common-characters) |
 | [1205-defanging-an-ip-address](https://github.com/ssrithik/leetcodesolutions/tree/master/1205-defanging-an-ip-address) |
+| [1651-shuffle-string](https://github.com/ssrithik/leetcodesolutions/tree/master/1651-shuffle-string) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1944-truncate-sentence](https://github.com/ssrithik/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
