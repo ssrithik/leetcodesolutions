@@ -44,6 +44,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ssrithik/leetcodesolutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1505-create-target-array-in-the-given-order](https://github.com/ssrithik/leetcodesolutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1580-shuffle-the-array) |
@@ -291,6 +292,7 @@
 | [0054-spiral-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ssrithik/leetcodesolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ssrithik/leetcodesolutions/tree/master/0258-add-digits) |
+| [1505-create-target-array-in-the-given-order](https://github.com/ssrithik/leetcodesolutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [3226-minimum-number-game](https://github.com/ssrithik/leetcodesolutions/tree/master/3226-minimum-number-game) |
 ## Number Theory
 |  |
