@@ -21,6 +21,7 @@
 | [0136-single-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0136-single-number) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ssrithik/leetcodesolutions/tree/master/0238-product-of-array-except-self) |
@@ -171,6 +172,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/ssrithik/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ssrithik/leetcodesolutions/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0264-ugly-number-ii) |
@@ -200,6 +202,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 ## Matrix
 |  |
@@ -215,6 +218,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ssrithik/leetcodesolutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0414-third-maximum-number) |
@@ -343,6 +347,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ssrithik/leetcodesolutions/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
