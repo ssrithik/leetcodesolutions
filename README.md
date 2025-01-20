@@ -61,6 +61,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ssrithik/leetcodesolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ssrithik/leetcodesolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ssrithik/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/ssrithik/leetcodesolutions/tree/master/3194-find-words-containing-character) |
@@ -195,6 +196,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ssrithik/leetcodesolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ssrithik/leetcodesolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ssrithik/leetcodesolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ssrithik/leetcodesolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ssrithik/leetcodesolutions/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -216,6 +218,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ssrithik/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/ssrithik/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
+| [2685-first-completely-painted-row-or-column](https://github.com/ssrithik/leetcodesolutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Sorting
 |  |
 | ------- |
