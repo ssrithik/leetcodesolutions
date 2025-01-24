@@ -340,6 +340,7 @@
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/ssrithik/leetcodesolutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ssrithik/leetcodesolutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/ssrithik/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/ssrithik/leetcodesolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ssrithik/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -436,6 +437,7 @@
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/ssrithik/leetcodesolutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ssrithik/leetcodesolutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/ssrithik/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -458,6 +460,7 @@
 | [0547-number-of-provinces](https://github.com/ssrithik/leetcodesolutions/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/ssrithik/leetcodesolutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ssrithik/leetcodesolutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/ssrithik/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/ssrithik/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ssrithik/leetcodesolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ssrithik/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -477,4 +480,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ssrithik/leetcodesolutions/tree/master/0037-sudoku-solver) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/ssrithik/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
