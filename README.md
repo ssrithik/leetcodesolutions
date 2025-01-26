@@ -439,6 +439,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/ssrithik/leetcodesolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ssrithik/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ssrithik/leetcodesolutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Binary Tree
 |  |
 | ------- |
@@ -464,6 +465,7 @@
 | [1039-find-the-town-judge](https://github.com/ssrithik/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ssrithik/leetcodesolutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ssrithik/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ssrithik/leetcodesolutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
 | ------- |
@@ -484,4 +486,5 @@
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ssrithik/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ssrithik/leetcodesolutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
