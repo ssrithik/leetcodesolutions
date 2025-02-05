@@ -33,6 +33,7 @@
 | [0414-third-maximum-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
@@ -195,6 +196,7 @@
 | [0409-longest-palindrome](https://github.com/ssrithik/leetcodesolutions/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/ssrithik/leetcodesolutions/tree/master/0432-all-oone-data-structure) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/ssrithik/leetcodesolutions/tree/master/0782-jewels-and-stones) |
 | [1039-find-the-town-judge](https://github.com/ssrithik/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1044-find-common-characters) |
@@ -272,11 +274,13 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0496-next-greater-element-i) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ssrithik/leetcodesolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
