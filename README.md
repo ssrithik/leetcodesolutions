@@ -33,6 +33,7 @@
 | [0414-third-maximum-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
+| [0643-maximum-average-subarray-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ssrithik/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -367,6 +368,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Counting
