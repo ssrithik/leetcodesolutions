@@ -288,6 +288,7 @@
 | [0010-regular-expression-matching](https://github.com/ssrithik/leetcodesolutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0058-length-of-last-word](https://github.com/ssrithik/leetcodesolutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/ssrithik/leetcodesolutions/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/ssrithik/leetcodesolutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/ssrithik/leetcodesolutions/tree/master/0115-distinct-subsequences) |
