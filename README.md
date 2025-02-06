@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/ssrithik/leetcodesolutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ssrithik/leetcodesolutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ssrithik/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
