@@ -55,6 +55,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/ssrithik/leetcodesolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ssrithik/leetcodesolutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/ssrithik/leetcodesolutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
