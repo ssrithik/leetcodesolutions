@@ -68,6 +68,7 @@
 | [2442-number-of-arithmetic-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ssrithik/leetcodesolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ssrithik/leetcodesolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ssrithik/leetcodesolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ssrithik/leetcodesolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -153,6 +154,7 @@
 | [2238-a-number-after-a-double-reversal](https://github.com/ssrithik/leetcodesolutions/tree/master/2238-a-number-after-a-double-reversal) |
 | [2383-add-two-integers](https://github.com/ssrithik/leetcodesolutions/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ssrithik/leetcodesolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ssrithik/leetcodesolutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/ssrithik/leetcodesolutions/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ssrithik/leetcodesolutions/tree/master/2812-find-the-maximum-achievable-number) |
@@ -217,6 +219,7 @@
 | [2434-design-a-number-container-system](https://github.com/ssrithik/leetcodesolutions/tree/master/2434-design-a-number-container-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ssrithik/leetcodesolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ssrithik/leetcodesolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ssrithik/leetcodesolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/3206-find-common-elements-between-two-arrays) |
@@ -400,6 +403,7 @@
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ssrithik/leetcodesolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ssrithik/leetcodesolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ssrithik/leetcodesolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Trie
 |  |
