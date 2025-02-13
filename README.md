@@ -20,6 +20,7 @@
 | [0075-sort-colors](https://github.com/ssrithik/leetcodesolutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssrithik/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ssrithik/leetcodesolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
@@ -139,6 +140,7 @@
 | [0066-plus-one](https://github.com/ssrithik/leetcodesolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ssrithik/leetcodesolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ssrithik/leetcodesolutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ssrithik/leetcodesolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/ssrithik/leetcodesolutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0264-ugly-number-ii) |
@@ -289,6 +291,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ssrithik/leetcodesolutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0496-next-greater-element-i) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ssrithik/leetcodesolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
