@@ -161,6 +161,7 @@
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ssrithik/leetcodesolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ssrithik/leetcodesolutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/ssrithik/leetcodesolutions/tree/master/2752-sum-multiples) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ssrithik/leetcodesolutions/tree/master/2812-find-the-maximum-achievable-number) |
 ## Dynamic Programming
 |  |
@@ -550,6 +551,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ssrithik/leetcodesolutions/tree/master/0037-sudoku-solver) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Topological Sort
 |  |
 | ------- |
