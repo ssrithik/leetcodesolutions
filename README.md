@@ -64,6 +64,7 @@
 | [1656-count-good-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/ssrithik/leetcodesolutions/tree/master/1677-matrix-diagonal-sum) |
 | [1944-truncate-sentence](https://github.com/ssrithik/leetcodesolutions/tree/master/1944-truncate-sentence) |
+| [2107-find-unique-binary-string](https://github.com/ssrithik/leetcodesolutions/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ssrithik/leetcodesolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ssrithik/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssrithik/leetcodesolutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -220,6 +221,7 @@
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ssrithik/leetcodesolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2107-find-unique-binary-string](https://github.com/ssrithik/leetcodesolutions/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ssrithik/leetcodesolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2434-design-a-number-container-system](https://github.com/ssrithik/leetcodesolutions/tree/master/2434-design-a-number-container-system) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -331,6 +333,7 @@
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ssrithik/leetcodesolutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/ssrithik/leetcodesolutions/tree/master/1944-truncate-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2107-find-unique-binary-string](https://github.com/ssrithik/leetcodesolutions/tree/master/2107-find-unique-binary-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3194-find-words-containing-character](https://github.com/ssrithik/leetcodesolutions/tree/master/3194-find-words-containing-character) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ssrithik/leetcodesolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -553,6 +556,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/ssrithik/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ssrithik/leetcodesolutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2107-find-unique-binary-string](https://github.com/ssrithik/leetcodesolutions/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Topological Sort
 |  |
