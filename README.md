@@ -216,6 +216,7 @@
 | [1044-find-common-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1044-find-common-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ssrithik/leetcodesolutions/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
@@ -392,6 +393,7 @@
 | [0854-making-a-large-island](https://github.com/ssrithik/leetcodesolutions/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/ssrithik/leetcodesolutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ssrithik/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ssrithik/leetcodesolutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ssrithik/leetcodesolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -432,6 +434,7 @@
 | [0729-my-calendar-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/ssrithik/leetcodesolutions/tree/master/0859-design-circular-deque) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ssrithik/leetcodesolutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2434-design-a-number-container-system](https://github.com/ssrithik/leetcodesolutions/tree/master/2434-design-a-number-container-system) |
 ## Segment Tree
@@ -485,6 +488,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ssrithik/leetcodesolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -504,6 +508,7 @@
 | [0820-find-eventual-safe-states](https://github.com/ssrithik/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/ssrithik/leetcodesolutions/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ssrithik/leetcodesolutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ssrithik/leetcodesolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -520,6 +525,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ssrithik/leetcodesolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
