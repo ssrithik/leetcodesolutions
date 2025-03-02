@@ -1,23 +1,30 @@
 class Solution {
     public int[] applyOperations(int[] nums) {
-        int[] result = new int[nums.length];
-        int count = 0;
-        int i;
-        for(i = 0; i < nums.length - 1; i++){
-            if(nums[i] != 0){
-                if(nums[i] == nums[i + 1]){
-                    result[count] = nums[i] * 2;
-                    i++;
-                }
-                else{
-                    result[count] = nums[i];
-                }
-                count++;
+        int n = nums.length;
+        
+        // Apply operations
+        for (int i = 0; i < n - 1; i++) {
+            if (nums[i] == nums[i + 1]) {
+                nums[i] *= 2;
+                nums[i + 1] = 0;
             }
         }
-        if(i != nums.length){
-            result[count] = nums[nums.length - 1];
+        
+        // Shift zeros to the end (in-place)
+        int nonZeroIdx = 0;
+        
+        // Move all non-zero elements to the front
+        for (int i = 0; i < n; i++) {
+            if (nums[i] != 0) {
+                nums[nonZeroIdx++] = nums[i];
+            }
         }
-        return result;
+        
+        // Fill the remaining positions with zeros
+        while (nonZeroIdx < n) {
+            nums[nonZeroIdx++] = 0;
+        }
+        
+        return nums;
     }
 }
