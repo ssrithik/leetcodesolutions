@@ -25,6 +25,7 @@
 | [0162-find-peak-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ssrithik/leetcodesolutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ssrithik/leetcodesolutions/tree/master/0238-product-of-array-except-self) |
@@ -115,6 +116,7 @@
 | [0027-remove-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ssrithik/leetcodesolutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ssrithik/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ssrithik/leetcodesolutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -148,6 +150,7 @@
 | [0067-add-binary](https://github.com/ssrithik/leetcodesolutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ssrithik/leetcodesolutions/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ssrithik/leetcodesolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/ssrithik/leetcodesolutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0264-ugly-number-ii) |
