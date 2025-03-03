@@ -71,6 +71,7 @@
 | [2107-find-unique-binary-string](https://github.com/ssrithik/leetcodesolutions/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ssrithik/leetcodesolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ssrithik/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ssrithik/leetcodesolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssrithik/leetcodesolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -127,6 +128,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/ssrithik/leetcodesolutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ssrithik/leetcodesolutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0958-sort-array-by-parity-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ssrithik/leetcodesolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssrithik/leetcodesolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2551-apply-operations-to-an-array) |
@@ -368,6 +370,7 @@
 | [0067-add-binary](https://github.com/ssrithik/leetcodesolutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/ssrithik/leetcodesolutions/tree/master/0258-add-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/ssrithik/leetcodesolutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/ssrithik/leetcodesolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssrithik/leetcodesolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2551-apply-operations-to-an-array) |
 | [3226-minimum-number-game](https://github.com/ssrithik/leetcodesolutions/tree/master/3226-minimum-number-game) |
