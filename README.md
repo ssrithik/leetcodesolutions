@@ -329,6 +329,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/ssrithik/leetcodesolutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ssrithik/leetcodesolutions/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
