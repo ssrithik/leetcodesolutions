@@ -350,6 +350,7 @@
 | [0383-ransom-note](https://github.com/ssrithik/leetcodesolutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ssrithik/leetcodesolutions/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ssrithik/leetcodesolutions/tree/master/0409-longest-palindrome) |
+| [0434-number-of-segments-in-a-string](https://github.com/ssrithik/leetcodesolutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/ssrithik/leetcodesolutions/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ssrithik/leetcodesolutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/ssrithik/leetcodesolutions/tree/master/0696-count-binary-substrings) |
