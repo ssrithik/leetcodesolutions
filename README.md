@@ -76,6 +76,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssrithik/leetcodesolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2478-longest-nice-subarray](https://github.com/ssrithik/leetcodesolutions/tree/master/2478-longest-nice-subarray) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ssrithik/leetcodesolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2551-apply-operations-to-an-array) |
@@ -409,6 +410,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/ssrithik/leetcodesolutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1610-xor-operation-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1610-xor-operation-in-an-array) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
+| [2478-longest-nice-subarray](https://github.com/ssrithik/leetcodesolutions/tree/master/2478-longest-nice-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -439,6 +441,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2478-longest-nice-subarray](https://github.com/ssrithik/leetcodesolutions/tree/master/2478-longest-nice-subarray) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Counting
 |  |
