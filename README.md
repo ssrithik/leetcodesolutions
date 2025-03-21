@@ -19,6 +19,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ssrithik/leetcodesolutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ssrithik/leetcodesolutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssrithik/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/ssrithik/leetcodesolutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0136-single-number) |
@@ -191,6 +192,7 @@
 | [0087-scramble-string](https://github.com/ssrithik/leetcodesolutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/ssrithik/leetcodesolutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ssrithik/leetcodesolutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssrithik/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/ssrithik/leetcodesolutions/tree/master/0279-perfect-squares) |
