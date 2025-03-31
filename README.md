@@ -84,6 +84,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ssrithik/leetcodesolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ssrithik/leetcodesolutions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/ssrithik/leetcodesolutions/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ssrithik/leetcodesolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ssrithik/leetcodesolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -151,6 +152,7 @@
 | [0409-longest-palindrome](https://github.com/ssrithik/leetcodesolutions/tree/master/0409-longest-palindrome) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ssrithik/leetcodesolutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ssrithik/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2681-put-marbles-in-bags](https://github.com/ssrithik/leetcodesolutions/tree/master/2681-put-marbles-in-bags) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Math
 |  |
@@ -300,6 +302,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ssrithik/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ssrithik/leetcodesolutions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2681-put-marbles-in-bags](https://github.com/ssrithik/leetcodesolutions/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ssrithik/leetcodesolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ssrithik/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/ssrithik/leetcodesolutions/tree/master/3226-minimum-number-game) |
@@ -313,6 +316,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ssrithik/leetcodesolutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/ssrithik/leetcodesolutions/tree/master/2434-design-a-number-container-system) |
+| [2681-put-marbles-in-bags](https://github.com/ssrithik/leetcodesolutions/tree/master/2681-put-marbles-in-bags) |
 | [3226-minimum-number-game](https://github.com/ssrithik/leetcodesolutions/tree/master/3226-minimum-number-game) |
 ## Prefix Sum
 |  |
