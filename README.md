@@ -90,6 +90,7 @@
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ssrithik/leetcodesolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ssrithik/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3194-find-words-containing-character](https://github.com/ssrithik/leetcodesolutions/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/ssrithik/leetcodesolutions/tree/master/3226-minimum-number-game) |
