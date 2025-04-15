@@ -77,6 +77,7 @@
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ssrithik/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ssrithik/leetcodesolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssrithik/leetcodesolutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2280-count-good-triplets-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2448-count-number-of-bad-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/ssrithik/leetcodesolutions/tree/master/2478-longest-nice-subarray) |
@@ -116,6 +117,7 @@
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ssrithik/leetcodesolutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2280-count-good-triplets-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ssrithik/leetcodesolutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ssrithik/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
@@ -277,6 +279,7 @@
 | [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
+| [2280-count-good-triplets-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -495,11 +498,13 @@
 | ------- |
 | [0729-my-calendar-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
+| [2280-count-good-triplets-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/ssrithik/leetcodesolutions/tree/master/2434-design-a-number-container-system) |
 ## Linked List
 |  |
@@ -630,4 +635,12 @@
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/ssrithik/leetcodesolutions/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ssrithik/leetcodesolutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
