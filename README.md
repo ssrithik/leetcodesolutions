@@ -75,6 +75,7 @@
 | [2107-find-unique-binary-string](https://github.com/ssrithik/leetcodesolutions/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/ssrithik/leetcodesolutions/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ssrithik/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2249-count-the-hidden-sequences](https://github.com/ssrithik/leetcodesolutions/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/ssrithik/leetcodesolutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/ssrithik/leetcodesolutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -333,6 +334,7 @@
 | [0303-range-sum-query-immutable](https://github.com/ssrithik/leetcodesolutions/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1603-running-sum-of-1d-array) |
+| [2249-count-the-hidden-sequences](https://github.com/ssrithik/leetcodesolutions/tree/master/2249-count-the-hidden-sequences) |
 ## Stack
 |  |
 | ------- |
