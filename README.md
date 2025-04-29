@@ -164,6 +164,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/ssrithik/leetcodesolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ssrithik/leetcodesolutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ssrithik/leetcodesolutions/tree/master/0067-add-binary) |
@@ -231,6 +232,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ssrithik/leetcodesolutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/ssrithik/leetcodesolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/ssrithik/leetcodesolutions/tree/master/0037-sudoku-solver) |
@@ -360,6 +362,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ssrithik/leetcodesolutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ssrithik/leetcodesolutions/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/ssrithik/leetcodesolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ssrithik/leetcodesolutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/ssrithik/leetcodesolutions/tree/master/0058-length-of-last-word) |
