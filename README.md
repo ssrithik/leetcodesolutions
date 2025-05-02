@@ -39,6 +39,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/ssrithik/leetcodesolutions/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ssrithik/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
@@ -253,6 +254,7 @@
 | [0398-random-pick-index](https://github.com/ssrithik/leetcodesolutions/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/ssrithik/leetcodesolutions/tree/master/0409-longest-palindrome) |
 | [0432-all-oone-data-structure](https://github.com/ssrithik/leetcodesolutions/tree/master/0432-all-oone-data-structure) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/ssrithik/leetcodesolutions/tree/master/0782-jewels-and-stones) |
