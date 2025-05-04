@@ -59,6 +59,7 @@
 | [1039-find-the-town-judge](https://github.com/ssrithik/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1044-find-common-characters) |
 | [1073-number-of-enclaves](https://github.com/ssrithik/leetcodesolutions/tree/master/1073-number-of-enclaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ssrithik/leetcodesolutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1256-rank-transform-of-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ssrithik/leetcodesolutions/tree/master/1364-tuple-with-same-product) |
@@ -262,6 +263,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1039-find-the-town-judge](https://github.com/ssrithik/leetcodesolutions/tree/master/1039-find-the-town-judge) |
 | [1044-find-common-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1044-find-common-characters) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/ssrithik/leetcodesolutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -482,6 +484,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ssrithik/leetcodesolutions/tree/master/0383-ransom-note) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ssrithik/leetcodesolutions/tree/master/1364-tuple-with-same-product) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
