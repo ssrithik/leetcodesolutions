@@ -176,6 +176,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ssrithik/leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/ssrithik/leetcodesolutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ssrithik/leetcodesolutions/tree/master/0066-plus-one) |
@@ -229,6 +230,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ssrithik/leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ssrithik/leetcodesolutions/tree/master/0010-regular-expression-matching) |
 | [0203-remove-linked-list-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ssrithik/leetcodesolutions/tree/master/0206-reverse-linked-list) |
@@ -536,6 +538,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ssrithik/leetcodesolutions/tree/master/0002-add-two-numbers) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ssrithik/leetcodesolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/0203-remove-linked-list-elements) |
