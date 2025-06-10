@@ -685,4 +685,8 @@
 |  |
 | ------- |
 | [2280-count-good-triplets-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2280-count-good-triplets-in-an-array) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/ssrithik/leetcodesolutions/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
