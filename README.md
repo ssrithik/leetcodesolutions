@@ -366,6 +366,7 @@
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1603-running-sum-of-1d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/ssrithik/leetcodesolutions/tree/master/2249-count-the-hidden-sequences) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -426,6 +427,7 @@
 | [3379-score-of-a-string](https://github.com/ssrithik/leetcodesolutions/tree/master/3379-score-of-a-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ssrithik/leetcodesolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -497,6 +499,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/ssrithik/leetcodesolutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2478-longest-nice-subarray](https://github.com/ssrithik/leetcodesolutions/tree/master/2478-longest-nice-subarray) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Counting
 |  |
 | ------- |
@@ -561,6 +564,7 @@
 | [1656-count-good-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/ssrithik/leetcodesolutions/tree/master/2083-three-divisors) |
 | [2442-number-of-arithmetic-triplets](https://github.com/ssrithik/leetcodesolutions/tree/master/2442-number-of-arithmetic-triplets) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Counting Sort
 |  |
 | ------- |
