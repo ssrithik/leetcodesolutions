@@ -110,6 +110,7 @@
 | [3429-special-array-i](https://github.com/ssrithik/leetcodesolutions/tree/master/3429-special-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ssrithik/leetcodesolutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ssrithik/leetcodesolutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ssrithik/leetcodesolutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
 | ------- |
