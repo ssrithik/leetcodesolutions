@@ -96,6 +96,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/ssrithik/leetcodesolutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/ssrithik/leetcodesolutions/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ssrithik/leetcodesolutions/tree/master/2685-first-completely-painted-row-or-column) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ssrithik/leetcodesolutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ssrithik/leetcodesolutions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -131,6 +132,7 @@
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ssrithik/leetcodesolutions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/ssrithik/leetcodesolutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -175,6 +177,7 @@
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ssrithik/leetcodesolutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ssrithik/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2681-put-marbles-in-bags](https://github.com/ssrithik/leetcodesolutions/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Math
 |  |
