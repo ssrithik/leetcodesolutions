@@ -175,6 +175,7 @@
 | [0455-assign-cookies](https://github.com/ssrithik/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/ssrithik/leetcodesolutions/tree/master/0890-lemonade-change) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ssrithik/leetcodesolutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/ssrithik/leetcodesolutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2681-put-marbles-in-bags](https://github.com/ssrithik/leetcodesolutions/tree/master/2681-put-marbles-in-bags) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ssrithik/leetcodesolutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -204,6 +205,7 @@
 | [0728-self-dividing-numbers](https://github.com/ssrithik/leetcodesolutions/tree/master/0728-self-dividing-numbers) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ssrithik/leetcodesolutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/1635-number-of-good-pairs) |
 | [2083-three-divisors](https://github.com/ssrithik/leetcodesolutions/tree/master/2083-three-divisors) |
