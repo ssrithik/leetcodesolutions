@@ -218,6 +218,7 @@
 | [2752-sum-multiples](https://github.com/ssrithik/leetcodesolutions/tree/master/2752-sum-multiples) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2812-find-the-maximum-achievable-number](https://github.com/ssrithik/leetcodesolutions/tree/master/2812-find-the-maximum-achievable-number) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -709,4 +710,8 @@
 | [0584-find-customer-referee](https://github.com/ssrithik/leetcodesolutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/ssrithik/leetcodesolutions/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/ssrithik/leetcodesolutions/tree/master/0596-classes-with-at-least-5-students) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
