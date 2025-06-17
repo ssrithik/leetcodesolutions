@@ -48,6 +48,7 @@
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/ssrithik/leetcodesolutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/ssrithik/leetcodesolutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0643-maximum-average-subarray-i) |
 | [0729-my-calendar-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
@@ -177,6 +178,7 @@
 | [0409-longest-palindrome](https://github.com/ssrithik/leetcodesolutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/ssrithik/leetcodesolutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/ssrithik/leetcodesolutions/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/ssrithik/leetcodesolutions/tree/master/0605-can-place-flowers) |
 | [0890-lemonade-change](https://github.com/ssrithik/leetcodesolutions/tree/master/0890-lemonade-change) |
 | [1255-reverse-subarray-to-maximize-array-value](https://github.com/ssrithik/leetcodesolutions/tree/master/1255-reverse-subarray-to-maximize-array-value) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ssrithik/leetcodesolutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
