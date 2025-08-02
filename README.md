@@ -113,6 +113,7 @@
 | [3194-find-words-containing-character](https://github.com/ssrithik/leetcodesolutions/tree/master/3194-find-words-containing-character) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/ssrithik/leetcodesolutions/tree/master/3226-minimum-number-game) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ssrithik/leetcodesolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ssrithik/leetcodesolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ssrithik/leetcodesolutions/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ssrithik/leetcodesolutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -320,6 +321,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/ssrithik/leetcodesolutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/ssrithik/leetcodesolutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ssrithik/leetcodesolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ssrithik/leetcodesolutions/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/ssrithik/leetcodesolutions/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ssrithik/leetcodesolutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -543,6 +545,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ssrithik/leetcodesolutions/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ssrithik/leetcodesolutions/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ssrithik/leetcodesolutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ssrithik/leetcodesolutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Trie
 |  |
