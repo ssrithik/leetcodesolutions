@@ -754,6 +754,7 @@
 | [0607-sales-person](https://github.com/ssrithik/leetcodesolutions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0619-biggest-single-number) |
 | [1258-article-views-i](https://github.com/ssrithik/leetcodesolutions/tree/master/1258-article-views-i) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ssrithik/leetcodesolutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/ssrithik/leetcodesolutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ssrithik/leetcodesolutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Combinatorics
