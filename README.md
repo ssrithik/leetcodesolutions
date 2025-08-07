@@ -753,6 +753,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/ssrithik/leetcodesolutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/ssrithik/leetcodesolutions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0619-biggest-single-number) |
+| [1908-recyclable-and-low-fat-products](https://github.com/ssrithik/leetcodesolutions/tree/master/1908-recyclable-and-low-fat-products) |
 ## Combinatorics
 |  |
 | ------- |
