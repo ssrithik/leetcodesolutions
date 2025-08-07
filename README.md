@@ -17,6 +17,7 @@
 | [0037-sudoku-solver](https://github.com/ssrithik/leetcodesolutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ssrithik/leetcodesolutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ssrithik/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ssrithik/leetcodesolutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ssrithik/leetcodesolutions/tree/master/0066-plus-one) |
@@ -244,6 +245,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ssrithik/leetcodesolutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ssrithik/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ssrithik/leetcodesolutions/tree/master/0055-jump-game) |
 | [0087-scramble-string](https://github.com/ssrithik/leetcodesolutions/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/ssrithik/leetcodesolutions/tree/master/0115-distinct-subsequences) |
@@ -334,6 +336,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/ssrithik/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
