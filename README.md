@@ -43,6 +43,7 @@
 | [0283-move-zeroes](https://github.com/ssrithik/leetcodesolutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/ssrithik/leetcodesolutions/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/ssrithik/leetcodesolutions/tree/master/0368-largest-divisible-subset) |
@@ -294,6 +295,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/ssrithik/leetcodesolutions/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ssrithik/leetcodesolutions/tree/master/0383-ransom-note) |
@@ -338,6 +340,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/ssrithik/leetcodesolutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1873-longest-nice-substring](https://github.com/ssrithik/leetcodesolutions/tree/master/1873-longest-nice-substring) |
 | [2280-count-good-triplets-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -366,6 +369,7 @@
 | [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ssrithik/leetcodesolutions/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ssrithik/leetcodesolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/ssrithik/leetcodesolutions/tree/master/0368-largest-divisible-subset) |
@@ -387,6 +391,7 @@
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0264-ugly-number-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/ssrithik/leetcodesolutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ssrithik/leetcodesolutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -545,6 +550,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/ssrithik/leetcodesolutions/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ssrithik/leetcodesolutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/ssrithik/leetcodesolutions/tree/master/1364-tuple-with-same-product) |
@@ -751,4 +757,12 @@
 |  |
 | ------- |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ssrithik/leetcodesolutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
