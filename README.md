@@ -759,6 +759,7 @@
 | [1664-find-users-with-valid-e-mails](https://github.com/ssrithik/leetcodesolutions/tree/master/1664-find-users-with-valid-e-mails) |
 | [1827-invalid-tweets](https://github.com/ssrithik/leetcodesolutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ssrithik/leetcodesolutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2057-count-salary-categories](https://github.com/ssrithik/leetcodesolutions/tree/master/2057-count-salary-categories) |
 ## Combinatorics
 |  |
 | ------- |
