@@ -31,6 +31,7 @@
 | [0134-gas-station](https://github.com/ssrithik/leetcodesolutions/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ssrithik/leetcodesolutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/ssrithik/leetcodesolutions/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
@@ -254,6 +255,7 @@
 | [0119-pascals-triangle-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ssrithik/leetcodesolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/ssrithik/leetcodesolutions/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/ssrithik/leetcodesolutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/ssrithik/leetcodesolutions/tree/master/0368-largest-divisible-subset) |
