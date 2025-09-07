@@ -57,6 +57,7 @@
 | [0486-predict-the-winner](https://github.com/ssrithik/leetcodesolutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ssrithik/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/ssrithik/leetcodesolutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/ssrithik/leetcodesolutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0643-maximum-average-subarray-i) |
@@ -310,6 +311,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ssrithik/leetcodesolutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/ssrithik/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/ssrithik/leetcodesolutions/tree/master/0782-jewels-and-stones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/ssrithik/leetcodesolutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -411,6 +413,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ssrithik/leetcodesolutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/ssrithik/leetcodesolutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/ssrithik/leetcodesolutions/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0731-my-calendar-ii) |
 | [1603-running-sum-of-1d-array](https://github.com/ssrithik/leetcodesolutions/tree/master/1603-running-sum-of-1d-array) |
 | [2249-count-the-hidden-sequences](https://github.com/ssrithik/leetcodesolutions/tree/master/2249-count-the-hidden-sequences) |
