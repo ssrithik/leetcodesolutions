@@ -2,12 +2,13 @@ class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer,Integer> hm = new HashMap<>();
         int i;
-        for(i=0;i<nums.length;i++)
+        hm.put(nums[0],0);
+        for(i=1;i<nums.length;i++)
         {
-            int rem = target - nums[i];
-            if(hm.containsKey(rem))
+            int tar = target - nums[i];
+            if(hm.containsKey(tar))
             {
-                return new int[]{hm.get(rem),i};
+                return new int[]{hm.get(tar),i};
             }
             hm.put(nums[i],i);
         }
