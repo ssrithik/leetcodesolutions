@@ -661,6 +661,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ssrithik/leetcodesolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -677,6 +678,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/ssrithik/leetcodesolutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 | [0744-network-delay-time](https://github.com/ssrithik/leetcodesolutions/tree/master/0744-network-delay-time) |
@@ -701,6 +703,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ssrithik/leetcodesolutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/ssrithik/leetcodesolutions/tree/master/0617-merge-two-binary-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ssrithik/leetcodesolutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
