@@ -4,19 +4,18 @@ class Solution {
         int i;
         for(i=0;i<s.length();i++)
         {
-            char ch = s.charAt(i);
-            if(ch=='(' || ch=='{' || ch == '[')
+            if(s.charAt(i)== '{' || s.charAt(i)== '(' || s.charAt(i)=='[')
             {
-                st.push(ch);
+                st.push(s.charAt(i));
             }
-            else if(ch=='}' || ch==')' || ch==']')
+            else if(s.charAt(i)== '}' || s.charAt(i)== ')' || s.charAt(i)==']')
             {
                 if(st.isEmpty())
                 {
                     return false;
                 }
-                char ch1 = st.pop();
-                if((ch1=='(' && ch==')') || (ch1=='{' && ch=='}') || (ch1=='[' && ch==']'))
+                char ch = st.pop();
+                if((ch=='{' && s.charAt(i)=='}') || (ch=='(' && s.charAt(i)==')') || (ch == '[' && s.charAt(i)==']'))
                 {
                     continue;
                 }
@@ -25,12 +24,15 @@ class Solution {
                     return false;
                 }
             }
-
+            
         }
-        if(!st.isEmpty())
+        if(st.isEmpty())
+        {
+            return true;
+        }
+        else
         {
             return false;
         }
-        return true;
     }
 }
