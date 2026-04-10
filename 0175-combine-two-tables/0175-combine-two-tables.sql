@@ -1,6 +1,6 @@
-SELECT 
-p.firstName,
-p.lastName,
+# Write your MySQL query statement below
+SELECT firstName,
+LastName,
 a.city,
 a.state
 FROM Person as p
