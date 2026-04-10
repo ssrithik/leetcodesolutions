@@ -805,6 +805,7 @@
 | [1153-product-sales-analysis-i](https://github.com/ssrithik/leetcodesolutions/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/ssrithik/leetcodesolutions/tree/master/1258-article-views-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ssrithik/leetcodesolutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1517-find-users-with-valid-e-mails](https://github.com/ssrithik/leetcodesolutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1664-find-users-with-valid-e-mails](https://github.com/ssrithik/leetcodesolutions/tree/master/1664-find-users-with-valid-e-mails) |
 | [1811-fix-names-in-a-table](https://github.com/ssrithik/leetcodesolutions/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/ssrithik/leetcodesolutions/tree/master/1827-invalid-tweets) |
