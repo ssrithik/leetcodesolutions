@@ -24,6 +24,7 @@
 | [0066-plus-one](https://github.com/ssrithik/leetcodesolutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ssrithik/leetcodesolutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ssrithik/leetcodesolutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ssrithik/leetcodesolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ssrithik/leetcodesolutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0119-pascals-triangle-ii) |
@@ -168,6 +169,7 @@
 | [0042-trapping-rain-water](https://github.com/ssrithik/leetcodesolutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ssrithik/leetcodesolutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ssrithik/leetcodesolutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0088-merge-sorted-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ssrithik/leetcodesolutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ssrithik/leetcodesolutions/tree/master/0234-palindrome-linked-list) |
@@ -382,6 +384,7 @@
 | [0018-4sum](https://github.com/ssrithik/leetcodesolutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ssrithik/leetcodesolutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ssrithik/leetcodesolutions/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ssrithik/leetcodesolutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ssrithik/leetcodesolutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/ssrithik/leetcodesolutions/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/ssrithik/leetcodesolutions/tree/master/0217-contains-duplicate) |
